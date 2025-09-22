@@ -25,6 +25,14 @@ This app provides REST APIs to manage student records. Currently, it exposes an 
 - **Method:**  
   `GET`
 
+- **Basic Authentication for User**
+  `Username: user`
+  `Password: user`
+
+- **Basic Authentication for Admin**
+  `Username: admin`
+  `Password: admin`
+
 - **Response Example:**
 
 ```json
